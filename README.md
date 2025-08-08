@@ -47,7 +47,7 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/your-link](https://www.linkedin.com/in/mpakelamothupi/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.africubic@gmail.com)
 
 ---
