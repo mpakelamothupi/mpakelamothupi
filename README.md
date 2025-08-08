@@ -1,34 +1,55 @@
-# Mpakela Mothupi 
+# 👋 Hi there, I'm Mothupi Mpakela
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmpakelamothupi%2Fmpakelamothupi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/mpakelamotupi)](https://twitter.com/https://x.com/mpakelamothupi)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/mpakelamothupi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/mpakelamothupi/?hl=en/)](https://www.instagram.com/https://www.instagram.com/phaksmothupi/?hl=en)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mpakelamothupi02@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/mpakelamothupi)](https://github.com/mpakelamothupi)
-[![Github](https://img.shields.io/github/followers/mpakelamothupi?label=Follow&style=social)](https://github.com/mpakelamothupi)
-
-I am a 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗮𝗻𝗱 𝗮𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 with a detail-oriented professional work ethic. I excel at transforming raw data into actionable insights. With a strong foundation in 𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 and proficiency in tools such as 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗘𝘅𝗰𝗲𝗹, 𝗦𝗤𝗟, 𝗠𝘆𝗦𝗤𝗟, 𝗣𝘆𝘁𝗵𝗼𝗻, and data visualization platforms like 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, I uncover patterns and trends that drive business decisions.
-
-My 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗮𝗰𝘂𝗺𝗲𝗻 has been shaped by my online education in 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲𝘀 𝗮𝗻𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 and my daily work as a  𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗘𝗱𝘂𝗰𝗮𝘁𝗼𝗿. I have acquired relevant skills in 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴, 𝘁𝗲𝗮𝗺𝘄𝗼𝗿𝗸, 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗮𝗻𝗱 𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻. I am committed to continuous learning and helping companies grow through data-driven business decisions.
-
-### 🖥 Skills
-
-- Microsoft Excel
-- MS SQL Sever with T-SQL
-- MySQL 
-- Python
-- Power BI
-
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat-square&logo=Microsoft-Excel&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-R%20programming-05122A?style=flat-square&logo=R-programming&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpakelamothupi&show_icons=true&locale=en&layout=compact" alt="mpakelamothupi" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mpakelamothupi&" alt="mpakelamothupi" />
-</div>
-
+🚀 **Aspiring MERN Stack Developer | Junior Software Developer Intern (Self-Employed)**  
+💡 Passionate about building impactful web applications that merge creativity, functionality, and clean code.  
+🎯 Focused on **MongoDB, Express.js, React, and Node.js** — building skills through real projects every week.  
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+
+## 🛠 Tech Stack & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+📌 *(More projects coming as I complete my MERN learning journey)*  
+
+- **Portfolio Website** – Showcasing my skills and projects *(React + TailwindCSS)*  
+- **MERN Task Manager** – CRUD application using MongoDB, Express, React, Node  
+- **Weather App** – Fetching live API data with React  
+- **API Practice Repo** – A collection of small Express & Mongo experiments  
+
+---
+
+## 📚 Currently Learning
+- Advanced React patterns & hooks  
+- REST API & MongoDB aggregation  
+- Git & GitHub workflow for collaboration  
+- MySQL for relational database skills  
+- CSS frameworks (TailwindCSS, Bootstrap)  
+
+---
+
+## 📊 GitHub Stats
+![Mothupi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.africubic@gmail.com)
+
+---
+
+💡 *“Driven by Code, Designed for Impact”*  
